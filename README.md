@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![ClaudioFerreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioFerreir&show_icons=true&theme=radical)](https://github.com/ClaudioFerreir/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioFerreir&layout=compact)](https://github.com/ClaudioFerreir/github-readme-stats)
