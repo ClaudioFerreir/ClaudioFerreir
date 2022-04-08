@@ -1,4 +1,4 @@
-# Hi there, I' Claudio 👋
+# Hi there, I'm Claudio 👋
 
 ---
 
