@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![ClaudioFerreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioFerreir)](https://github.com/ClaudioFerreir/github-readme-stats)
+![ClaudioFerreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioFerreir&hide=contribs,prs)
+![ClaudioFerreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioFerreir&count_private=true)
