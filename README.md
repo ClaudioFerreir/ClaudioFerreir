@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <div style="display: inline_block" align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ClaudioFerreir&show_icons=true&&include_all_commits=true&count_private=true&theme=radical"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioFerreir&layout=compact)](https://github.com/ClaudioFerreir/github-readme-stats)
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardofortepace&layout=compact&langs_count=20&title_color=ff2929&bg_color=242f45&icon_color=aa39f7&text_color=15d2eb&border_colore32d2d"/>
 </div>
