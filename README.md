@@ -40,7 +40,7 @@
   <a href="https://www.instagram.com/claudioferreira.jr/">
     <img align="left" alt="Claudio Ferreira | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="claudioferreirajr@hotmail.com">
+  <a href="mailto:claudioferreirajr@hotmail.com">
     <img align="left" alt="Claudio Ferreira | Hotmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 </div>
