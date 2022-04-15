@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/claudioferreirajr">
     <img align="left" alt="Claudio Ferreira | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="">
+  <a href="#">
     <img align="left" alt="Claudio Ferreira | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/claudioferreira.jr/">
