@@ -45,5 +45,6 @@
   </a>
 </div>
 <div>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=claudioferreir&bg_color=000000&color=ffffff&      line=26a269&point=26a269&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <a href="https://github-readme-activity-graph.cyclic.app/graph?username=claudioferreir&bg_color=000000&color=ffffff&line=26a269&point=26a269&area=true&hide_border=true">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 </div>
