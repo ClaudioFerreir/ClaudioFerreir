@@ -43,6 +43,7 @@
   <a href="mailto:claudioferreirajr@hotmail.com">
     <img align="left" alt="Claudio Ferreira | Hotmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
+  <br>
 </div>
 
 
