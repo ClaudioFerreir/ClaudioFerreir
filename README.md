@@ -25,7 +25,7 @@
   <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
   <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
   <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
-  <a src="https://www.w3schools.com/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
 
 ---
