@@ -25,6 +25,7 @@
   <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
   <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
   <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
+  <a src="https://www.w3schools.com/java/"><img src="https://icons8.com/icon/13679/java"/></a>
 </div>
 
 ---
