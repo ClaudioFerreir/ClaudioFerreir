@@ -31,7 +31,7 @@
 ---
 
 ## Connect with me 
-<div style="display: inline_block" align="center">
+<div style="display: inline_block; text-align: center" align="center">
   <a href="https://www.linkedin.com/in/claudioferreirajr">
     <img align="left" alt="Claudio Ferreira | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
