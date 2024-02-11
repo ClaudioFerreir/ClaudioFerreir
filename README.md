@@ -14,6 +14,12 @@
 
 ---
 
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=claudioferreir&theme=dark" alt="claudioferreir streak stats" />
+</div>
+
+---
+
 <div style="display: inline_block" align="center">
   <a src="https://www.ruby-lang.org/"><img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/></a>
   <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
