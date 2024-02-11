@@ -15,7 +15,7 @@
 ---
 
 <div style="display: inline-block" align="center">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=claudioferreir&theme=dark" alt="claudioferreir streak stats" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=claudioferreir&theme=dark" alt="claudioferreir streak stats" />
 </div>
 
 ---
